@@ -1,0 +1,21 @@
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Build folders
+bin/
+obj/
+
+# Compiled files
+*.exe
+*.o
+*.a
+*.dll
+
+# Game data
+save.dat
+
+# OS files
+.DS_Store
+Thumbs.db
